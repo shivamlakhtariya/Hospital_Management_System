@@ -8,3 +8,5 @@ The main aim of our project is to provide a paperless hospital. It also  aims at
 * Java
 * GUI(Graphics user interface). We selected Java for our project because it’s easy to interface an Oracle database and it’s reliable to users.
 
+# ER Diagram
+![ER Diagram](https://github.com/shivamlakhtariya/Hospital_Management_System/blob/main/Results/ER%20Diagram.JPG)
